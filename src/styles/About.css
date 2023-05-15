@@ -1,0 +1,40 @@
+.about_content {
+  display: flex;
+  justify-content: space-around;
+}
+
+.photo img {
+  border-radius: 30% 70% 70% 30% / 55% 49% 51% 45% ;
+  width: 556px;
+  height: 600px;
+  object-fit: cover;
+  object-position: bottom;
+}
+
+.intro {
+  align-self: center;
+}
+
+.intro li {
+  font-size: var(--text-size);
+  margin-bottom: 2rem;
+}
+
+.intro li span {
+  font-size: 1rem;
+  display: inline-block;
+  width: 80px;
+  color: var(--sub-color);
+}
+
+.btn_box a {
+  display: inline-block;
+  background-color: var(--main-color);
+  color: var(--inside-color);
+  padding: 1rem;
+  border-radius: .5rem;
+  font-size: var(--text-size);
+  width: 150px;
+  margin-right: 2rem;
+}
+

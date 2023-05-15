@@ -1,6 +1,9 @@
 header {
   padding: 2rem;
   display: flex;
+  width: 1280px;
+  box-sizing: border-box;
+  position: fixed;
 }
 
 h1 {

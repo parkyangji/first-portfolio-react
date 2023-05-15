@@ -1,8 +1,11 @@
 import React from 'react'
+import '../styles/Skills.css'
 
 const Skills = () => {
   return (
-    <div>Skills</div>
+    <section style={{height:'500px'}}>
+      <h2>Skills</h2>
+    </section>
   )
 }
 

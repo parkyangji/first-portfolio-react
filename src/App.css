@@ -64,11 +64,25 @@ a {
 
 /*==================== 변수 ====================*/
 :root {
-  --main-color: #6e57e0;
-  --main-color-light: #c1b6fc;
-  --sub-color: #5a43cb;
-  --text-color: #333;
+  --main-color: hsl(250, 69%, 61%);
+  --main-color-light: hsl(250, 92%, 85%);
+  --sub-color: hsl(250, 8%, 45%);
   --inside-color: #fff;
 
   --nav-font-size: 1.5rem;
+  --title-size: 3rem;
+  --text-size: 1.2rem;
+}
+
+.wrap {
+  width: 1280px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+section h2 {
+  text-align: center;
+  font-size: var(--title-size);
+  font-weight: 700;
+  margin: 5rem 0 2rem;
 }
