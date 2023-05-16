@@ -74,7 +74,7 @@ a {
   --text-size: 1.2rem;
 }
 
-.wrap {
+section {
   width: 1280px;
   overflow: hidden;
   margin: 0 auto;

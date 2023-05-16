@@ -1,7 +1,7 @@
 header {
   padding: 2rem;
   display: flex;
-  width: 1280px;
+  width: 100%;
   box-sizing: border-box;
   position: fixed;
 }

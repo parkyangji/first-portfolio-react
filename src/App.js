@@ -1,10 +1,10 @@
 import './App.css';
-import About from "./components/About"
-import Home from "./components/Home"
-import Skills from "./components/Skills"
-import Portfolio from "./components/Portfolio"
-import Footer from './components/Footer';
-import Navbar from './components/Navbar';
+import About from "./pages/About"
+import Home from "./pages/Home"
+import Skills from "./pages/Skills"
+import Portfolio from "./pages/Portfolio"
+import Footer from './pages/Footer';
+import Navbar from './pages/Navbar';
 
 function App() {
   return (

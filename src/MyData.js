@@ -58,7 +58,7 @@ export const PortfolioData = [
   },
   {
     id : 4,
-    type: "반응형",
+    type: "워드프레스",
     name : "peripera",
     long : "3일",
     imgsrc : peripera,
@@ -66,7 +66,7 @@ export const PortfolioData = [
   },
   {
     id : 5,
-    type: "반응형",
+    type: "리액트",
     name : "parkyangji",
     long : "제작중",
     imgsrc : "",

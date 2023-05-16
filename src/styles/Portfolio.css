@@ -1,0 +1,64 @@
+.tabMenu {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.tabMenu li {
+  display: inline-block;
+  border: 1px solid var(--main-color);
+  padding: 0.65rem 1rem;
+  border-radius: .5rem;
+  font-size: var(--text-size);
+  text-transform: capitalize;
+  cursor: pointer;
+  margin-right: 1rem;
+}
+
+.tabMenu li.active {
+  background: var(--main-color);
+  color: var(--inside-color);
+}
+
+.port_img {
+  text-align: center;
+}
+
+.port_img img {
+  width: 600px;
+}
+
+.port_info {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2rem auto;
+  width: 600px;
+}
+
+.port_info dt {
+  font-size: var(--nav-font-size);
+  line-height: 2em;
+}
+
+.port_info dd {
+  font-size: var(--text-size);
+  line-height: 2em;
+}
+
+.url_box a {
+  display: inline-block;
+  width: 56px;
+  height: 56px;
+  background: var(--main-color);
+  padding: 1rem;
+  border-radius: 50%;
+  text-align: center;
+  box-sizing: border-box;
+  margin-right: 2rem;
+}
+
+.url_box a svg {
+  font-size: 1.5rem;
+  color: var(--inside-color);
+}
