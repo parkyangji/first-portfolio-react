@@ -1,0 +1,19 @@
+.skills {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  row-gap: 4rem;
+}
+
+.skills li {
+  display: flex;
+    justify-content: center;
+}
+
+.skills li svg {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}

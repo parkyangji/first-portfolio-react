@@ -21,10 +21,11 @@ const About = () => {
           </ul>
           <div className="btn_box">
             <a href='#'>resume</a>
-            <a href='#'>github</a>
+            <a href='https://github.com/parkyangji'>github</a>
           </div>
         </div>
       </div>
+      
     </section>
   )
 }

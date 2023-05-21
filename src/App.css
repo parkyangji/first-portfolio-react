@@ -74,15 +74,19 @@ a {
   --text-size: 1.2rem;
 }
 
+.wrap {
+  overflow: hidden;
+}
+
 section {
   width: 1280px;
   overflow: hidden;
-  margin: 0 auto;
+  margin: 0 auto 2rem;
 }
 
 section h2 {
   text-align: center;
   font-size: var(--title-size);
   font-weight: 700;
-  margin: 5rem 0 2rem;
+  margin: 5rem 0 3rem;
 }

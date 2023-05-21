@@ -4,3 +4,8 @@ footer {
   padding: 2rem;
   color: var(--inside-color);
 }
+
+footer p {
+  width: 1280px;
+  margin: 0 auto;
+}
