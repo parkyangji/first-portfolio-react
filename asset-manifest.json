@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-github-pages/first-portfolio-react/static/css/main.33210e33.css",
+    "main.js": "/react-github-pages/first-portfolio-react/static/js/main.77a7bf36.js",
+    "static/media/foosung.png": "/react-github-pages/first-portfolio-react/static/media/foosung.af835e32348122123f98.png",
+    "static/media/peripera.png": "/react-github-pages/first-portfolio-react/static/media/peripera.5f84e5773c9484c34d86.png",
+    "static/media/cinderella.png": "/react-github-pages/first-portfolio-react/static/media/cinderella.0bd7f30ad75d159d78b3.png",
+    "static/media/foosung_mobile.png": "/react-github-pages/first-portfolio-react/static/media/foosung_mobile.5ded0b8fd293bea06852.png",
+    "static/media/myphoto.jpg": "/react-github-pages/first-portfolio-react/static/media/myphoto.da6830f3564533cd923c.jpg",
+    "index.html": "/react-github-pages/first-portfolio-react/index.html",
+    "main.33210e33.css.map": "/react-github-pages/first-portfolio-react/static/css/main.33210e33.css.map",
+    "main.77a7bf36.js.map": "/react-github-pages/first-portfolio-react/static/js/main.77a7bf36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33210e33.css",
+    "static/js/main.77a7bf36.js"
+  ]
+}
